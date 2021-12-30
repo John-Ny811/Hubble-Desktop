@@ -1,4 +1,4 @@
-### DThe script downloads a random image of the Hubble Space Telescope and then sets it as wallpaper.
+### The script downloads a random image of the Hubble Space Telescope and then sets it as wallpaper.
 ##### (Image-source: https://esahubble.org/images/archive/wallpapers/) 
 
 (Für Linux)
