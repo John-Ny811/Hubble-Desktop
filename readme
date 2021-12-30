@@ -1,9 +1,1 @@
-Das programm wurde folgendermaßen als Startup-Script eingerichtet
 
-https://help.gnome.org/admin/system-admin-guide/stable/autostart-applications.html.en
-
-die entsprechende Datei findet sich unter:
-/etc/xdg/autostart/change.desktop
-
-
-(ich hatte auch versucht das Script als .service einzurichten (siehe "systemd") aber das hat nicht funktioniert, wahrscheinlich weil das Script nur klappt, wenn es erst dann ausgeführt wird, sobald man eingeloggt ist -> deswegen als .desktop eingerichtet
