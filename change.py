@@ -26,8 +26,6 @@ website = urllib2.urlopen("https://esahubble.org/images/archive/wallpapers/page/
 #read html code
 html = website.read()
 
-#use re.findall to get all the links
-
 #note that the reg-Expression for numbers start with 2 and is at least 4 digits long [2-9]{4}
 #that way we can ensure that no pictures with a low resolution are downloaded
 links = re.findall("title: '.*',[\r\n].*width: [2-9]{4},[\r\n].*height: [2-9]{4},[\r\n].*src: .*[\r\n].*url: '\/[a-zA-Z0-9]*\/[a-zA-Z0-9]*", html)
