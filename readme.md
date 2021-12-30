@@ -3,16 +3,16 @@
 
 (Für Linux)
 
- ### Anwendung:
+ ### Usage:
 
-##### über Terminal:
+##### run the script:
 ```
-python ./change.py
+python [path]/change.py
 ```
 
 
-##### oder als Startup-Script:
+##### or make it a startup-script e.g.:
 
-Den Eintrag "EXEC" in "change.desktop" anpassen
+Open the file 'change.desktop' and change the entry [exec] to the path the script is in
 
-und anschließend "change.desktop" in folgenden Ordner kopieren: /etc/xdg/autostart/
+Copy 'change.desktop' to  /etc/xdg/autostart/
