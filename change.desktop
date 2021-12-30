@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=change-background
+Exec=/usr/bin/python [Pfad/Zum/Skript]/change.py
+OnlyShowIn=GNOME;
+AutostartCondition=GSettings org.gnome.desktop.background show-desktop-icons
