@@ -1,9 +1,9 @@
-### Das Skript lädt ein zufälliges Bild des Hubble-Weltraumteleskops herunter und setzt anschließend das Bild als Wallpaper ein.
-#####(Bildquelle: https://esahubble.org/images/archive/wallpapers/) 
+### Das Skript lädt ein zufälliges Bild des Hubble-Weltraumteleskops herunter und setzt dieses anschließend als Wallpaper ein.
+##### (Bildquelle: https://esahubble.org/images/archive/wallpapers/) 
 
 (Für Linux)
 
- ###Anwendung:
+ ### Anwendung:
 
 ##### über Terminal:
 ```
